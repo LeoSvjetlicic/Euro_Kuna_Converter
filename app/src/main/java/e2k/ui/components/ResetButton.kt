@@ -1,4 +1,4 @@
-package agency.five.codebase.android.e2k.ui.components
+package e2k.ui.components
 
 import agency.five.codebase.android.e2k.ui.theme.MyGreen
 import androidx.compose.foundation.layout.padding
@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun EqualsButton(
+fun ResetButton(
     modifier: Modifier
 ) {
     Card(

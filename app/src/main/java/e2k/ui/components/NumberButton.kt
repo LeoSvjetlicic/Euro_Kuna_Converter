@@ -1,4 +1,4 @@
-package agency.five.codebase.android.e2k.ui.components
+package e2k.ui.components
 
 import agency.five.codebase.android.e2k.ui.theme.Gray
 import androidx.compose.foundation.layout.padding
